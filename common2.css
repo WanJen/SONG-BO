@@ -1,0 +1,23 @@
+#breadcrumb{
+	width: 95%;
+	margin: 10px auto 10px auto;
+	padding: 5px;
+	font-size: 21px;
+	background-color: #F0F0F0;
+	border: 1px solid #000000;
+}
+
+#breadcrumb a:link{
+	color: #525252;
+	/*text-decoration: none;*/
+}
+
+#breadcrumb a:visited{
+	color: #525252;
+	/*text-decoration: none;*/
+}
+
+#breadcrumb a:hover{
+	color: #E32636;
+	/*text-decoration: underline;*/
+}
