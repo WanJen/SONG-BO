@@ -1,0 +1,480 @@
+#title{
+	width: 95%;
+	margin: 10px auto 10px auto;
+	color: #525252;
+	font-size:36px;
+}
+
+table{
+	width: 95%;
+	margin: 0px auto 0px auto;
+	border: 0px solid #000000;
+	border-collapse: separate;
+	border-spacing: 0px 50px;
+}
+
+td{
+	border: 0px solid #FF4040;
+}
+
+#option2 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 195px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option2 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 195px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option2 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 195px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 164px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 164px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 164px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3half a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 152px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3half a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 152px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option3half a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 152px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option4 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 133px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option4 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 133px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option4 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 133px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option5 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 102px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option5 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 102px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option5 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 102px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 71px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 71px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 71px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6half a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 50px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6half a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 50px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option6half a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 50px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7half a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 19px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7half a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 19px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option7half a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 19px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option8 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option8 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option8 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option9 a:link{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option9 a:visited{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #D3D3D3;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon2.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
+
+#option9 a:hover{
+	font-size:31px;
+	color: #000000;
+	text-decoration: none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	padding: 15px 40px 15px 20px;
+	background: #FFFFFF;
+	background-image: url(images/icon3.jpg);
+	background-repeat:   no-repeat;
+	background-position: right;
+}
