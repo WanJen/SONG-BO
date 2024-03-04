@@ -1,0 +1,14 @@
+table{
+	width: 99%;
+	margin: 10px auto 10px auto;
+	border: 5px solid #B0B0B0;
+	border-collapse: collapse;
+	background-color: #F5F5F5;
+}
+
+td{
+	padding: 2px 5px 2px 5px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #828282;
+}
